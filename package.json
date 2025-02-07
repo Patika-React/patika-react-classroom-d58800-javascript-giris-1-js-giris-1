@@ -1,0 +1,23 @@
+{
+  "name": "1-js-giris",
+  "version": "1.0.0",
+  "description": "**📝 JavaScript Ödevi**",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozcanzaferayan/1-js-giris.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozcanzaferayan/1-js-giris/issues"
+  },
+  "homepage": "https://github.com/ozcanzaferayan/1-js-giris#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
